@@ -38,10 +38,7 @@ def ReverseToString(listChars : list):
 
 def FindDiagnals(df,tdf):
     tempList = []
-    x = 0
     lenConvert = len(df)
-    x = 0
-    x2 = 0
     l = 1
     HiC = 0
     for i in range(lenConvert): #loops for each row in the range
